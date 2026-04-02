@@ -16,6 +16,9 @@ Which payment mode is used the most by customers?
 Which category (Office Supplies, Technology, Furniture) generates the highest revenue?
 Which sub-category has the highest sales (Phones, Chairs, Binders)?
 Which state shows the highest sales and profit on the map?
+## 📊 Dashboard Preview
+![Dashboard Screenshot](Sales.png)
+
 
 
 
