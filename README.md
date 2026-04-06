@@ -17,7 +17,7 @@ Super Store Sales Dashboard built using Power BI to analyze sales, profit, custo
 - Which sub-category has the highest sales (Phones, Chairs, Binders)?
 - Which state shows the highest sales and profit on the map?
 ## 📊 Dashboard Preview
-![Dashboard Screenshot](Sales.png)
+![Dashboard Screenshot](Sales_Store_DashBoard.png)
 
 # 📊 Dashboard Development Process
 - 1.Data Collection & Cleaning
